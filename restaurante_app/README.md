@@ -1,6 +1,6 @@
 # Sistema de Gestión de Restaurante
 
-**Estudiante:** [Bryan Saul Iza Llano]
+**Estudiante:** Bryan Saul Iza Llano
 
 ---
 
